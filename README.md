@@ -1,7 +1,9 @@
+<a name="readme-top"></a>
+
 <div align="center">
 
   <h1><b>Math Magicians</b></h1>
-
+</div>
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
