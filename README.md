@@ -1,4 +1,6 @@
-<!-- TABLE OF CONTENTS -->
+<div align="center">
+
+  <h1><b>Math Magicians</b></h1>
 
 # 📗 Table of Contents
 
@@ -6,6 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo ](#-live-demo-)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -61,7 +64,13 @@ This website also includes a "random math fact" feature that displays a fun and 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> ## Project demo
+
+> Site is under construction and the project demo will be updated soon.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -104,7 +113,7 @@ npm run build
 👤 **Jawad Nazari**
 
 - GitHub: [@Jawad-Nazari](https://github.com/Jawad-Nazari)
-- LinkedIn: [Jawad-Nazari](https://www.linkedin.com/in/Jawad-)
+- LinkedIn: [Jawad-Nazari](https://www.linkedin.com/in/jawad-nazari/)
 - Twitter: [@nazari_jawad58](https://twitter.com/nazari_jawad58)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -148,6 +157,6 @@ If you like this project you can follow me and give the project a star.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
