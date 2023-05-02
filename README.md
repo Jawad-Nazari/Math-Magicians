@@ -63,6 +63,8 @@ This website also includes a "random math fact" feature that displays a fun and 
 
 - **[Setup with create-react-app]**
 - **[Setup linters for React/Redux]**
+- **[Developed the UI of the calculator]**
+- **[Added Components for the Calulator]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
