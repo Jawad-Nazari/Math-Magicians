@@ -5,6 +5,18 @@
   border-radius: 5px;
 }
 
+.calc-result {
+  width: 100%;
+  padding: 15px 8px;
+  text-align: right;
+  background: #979393;
+  color: white;
+  border: none;
+  outline: none;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
 .calc-input-group {
   width: 100%;
   display: grid;
