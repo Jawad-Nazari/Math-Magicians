@@ -18,3 +18,24 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+.question{
+  font-size: 1.5rem;
+  color: white;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.quote{
+  font-size: 1.5rem;
+  color: white;
+  Width: 70%;
+}
