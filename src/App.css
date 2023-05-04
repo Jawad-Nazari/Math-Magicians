@@ -28,14 +28,16 @@
   color: white;
   margin-bottom: 2rem;
 }
-.question{
+
+.question {
   font-size: 1.5rem;
   color: white;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
-.quote{
+
+.quote {
   font-size: 1.5rem;
   color: white;
-  Width: 70%;
+  width: 70%;
 }
