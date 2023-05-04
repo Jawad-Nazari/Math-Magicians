@@ -66,6 +66,7 @@ This website also includes a "random math fact" feature that displays a fun and 
 - **[Developed the UI of the calculator]**
 - **[Added Components for the Calulator]**
 - **[Added calculate functionality to the Calulator]**
+- **[Added quote which is fetched from API randomly]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,8 +128,8 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Some data will be fetched from API**
-- **Random math quotes will be added**
+- ** Other components will be added **
+- ** Website will be completed **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
