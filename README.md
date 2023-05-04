@@ -65,6 +65,7 @@ This website also includes a "random math fact" feature that displays a fun and 
 - **[Setup linters for React/Redux]**
 - **[Developed the UI of the calculator]**
 - **[Added Components for the Calulator]**
+- **[Added calculate functionality to the Calulator]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +127,7 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Math calculation functionality will be added**
+- **Some data will be fetched from API**
 - **Random math quotes will be added**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
