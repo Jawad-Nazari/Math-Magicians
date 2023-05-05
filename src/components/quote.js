@@ -14,13 +14,12 @@ const Quote = () => {
         if (!response.ok) {
           throw new Error(`API request failed with status code ${response.status}.`);
         }
-        setIsLoading(false);
         const data = await response.json();
         setQuoteText(data[0].quote);
       } catch (error) {
-        setIsLoading(false);
         setHasError(true);
       }
+      setIsLoading(false);
     };
 
     fetchQuote();
