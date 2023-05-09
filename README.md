@@ -67,6 +67,7 @@ This website also includes a "random math fact" feature that displays a fun and 
 - **[Added Components for the Calulator]**
 - **[Added calculate functionality to the Calulator]**
 - **[Added quote which is fetched from API randomly]**
+- **[Added Home Page and used Router]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,7 +75,7 @@ This website also includes a "random math fact" feature that displays a fun and 
 
 > ## Project demo
 
-> Site is under construction and the project demo will be updated soon.
+> The project demo link will be updated soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +130,7 @@ npm run build
 ## 🔭 Future Features <a name="future-features"></a>
 
 - ** Other components will be added **
-- ** Website will be completed **
+- ** Website will be tested before publish **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
