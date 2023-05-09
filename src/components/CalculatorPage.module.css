@@ -1,0 +1,35 @@
+.calculator_section {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  gap: 20px;
+  align-items: center;
+}
+
+.calculatorPage_details {
+  width: 100%;
+  padding: 15px;
+}
+
+.calculatorPage_details h3 {
+  font-size: 2rem;
+  margin: 15px 0;
+  color: #3a42d2;
+}
+
+.calculatorPage_details p {
+  font-family: sans-serif;
+  font-size: 1.3rem;
+  color: #eeeef1;
+  font-weight: bold;
+  line-height: 2rem;
+}
+
+@media (min-width: 768px) {
+  .calculator_section {
+    flex-direction: row;
+    gap: 120px;
+    align-items: normal;
+    justify-content: center;
+  }
+}

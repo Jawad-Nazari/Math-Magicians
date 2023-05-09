@@ -1,0 +1,20 @@
+.home {
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
+
+.home h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #3a42d2;
+}
+
+.home p {
+  font-size: 1.3rem;
+  line-height: 1.6rem;
+  font-family: sans-serif;
+}
