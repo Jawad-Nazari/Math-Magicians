@@ -68,6 +68,7 @@ This website also includes a "random math fact" feature that displays a fun and 
 - **[Added calculate functionality to the Calulator]**
 - **[Added quote which is fetched from API randomly]**
 - **[Added Home Page and used Router]**
+- **[Added Jest test unit for the componets]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,6 +124,12 @@ npm run build
 - LinkedIn: [Jawad-Nazari](https://www.linkedin.com/in/jawad-nazari/)
 - Twitter: [@nazari_jawad58](https://twitter.com/nazari_jawad58)
 
+👤 **Kayemba Jonathan**
+
+- GitHub: [@kayembajonathan](https://github.com/KAYEMBAJONATHAN)
+- LinkedIn: [@kayembajonathan](https://www.linkedin.com/in/jonathan-kayembb56247236/)
+- Twitter: [@JonathanKa97287](@JonathanKa97287)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -130,7 +137,7 @@ npm run build
 ## 🔭 Future Features <a name="future-features"></a>
 
 - ** Other components will be added **
-- ** Website will be tested before publish **
+- ** It will be deployed on Render **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

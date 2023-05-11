@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { act } from 'react-dom/test-utils';
 import calculate from './logic/calculate';
 import './calculator.css';
 
@@ -10,13 +11,15 @@ function Calculator() {
   });
   const clickHandler = (e) => {
     const result = calculate(state, e.target.textContent);
-    setState((prevState) => ({ ...prevState, ...result }));
+    act(() => {
+      setState((prevState) => ({ ...prevState, ...result }));
+    });
   };
   const { total, next } = state;
 
   return (
     <div className="calculator">
-      <p className="calc-result">{next || total || 0}</p>
+      <p className="calc-result" data-testid="total_value" type="text">{next || total || 0}</p>
       <ul className="buttons-container">
         <li className="button-row">
           <button className="calc-btn" type="button" onClick={clickHandler}>
