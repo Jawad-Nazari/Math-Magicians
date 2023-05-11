@@ -1,6 +1,5 @@
 /* eslint-disable import/no-extraneous-dependencies */
 import React from 'react';
-import '@testing-library/jest-dom/extend-expect';
 import { Route, Routes } from 'react-router-dom';
 import Layout from './components/UI/Layout';
 import Quote from './components/quote';
