@@ -74,9 +74,7 @@ This website also includes a "random math fact" feature that displays a fun and 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> ## Project demo
-
-> The project demo link will be updated soon.
+- [Live Demo Link on Render](https://math-magicians-jawad-nazari.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
